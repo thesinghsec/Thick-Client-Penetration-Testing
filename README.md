@@ -49,4 +49,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-Start exploring the world of thick client penetration testing and enhance your security assessment skills! If you have any questions or suggestions, feel free to [open an issue](../../issues) or reach out on [LinkedIn(https://www.linkedin.com/in/bikramjeetx/). Happy hacking! 🛡️🔍
+Start exploring the world of thick client penetration testing and enhance your security assessment skills! If you have any questions or suggestions, feel free to [open an issue](../../issues) or reach out on [LinkedIn](https://www.linkedin.com/in/bikramjeetx/). Happy hacking! 🛡️🔍
