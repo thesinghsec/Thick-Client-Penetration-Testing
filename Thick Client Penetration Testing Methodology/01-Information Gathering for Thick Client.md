@@ -9,7 +9,7 @@
 
 - CFF Explorer → https://ntcore.com/?page_id=388
 - Sysinternal Suite → https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
-- Wireshark → https://www.wireshark.org/download.html
+- Wireshark → https://www.wireshark.org/download.html 
 
 ---
 
